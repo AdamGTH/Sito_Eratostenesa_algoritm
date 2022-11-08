@@ -16,7 +16,7 @@ def sito_algoritm2(n):
     return _all
 ```
 
-## Method two
+### Method two
 ```py
 def sito_algoritm1(n):
 
