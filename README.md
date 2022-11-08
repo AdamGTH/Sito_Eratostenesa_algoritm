@@ -31,5 +31,6 @@ def sito_algoritm1(n):
     return prime_num
 ```
 
-![image](https://user-images.githubusercontent.com/111123372/200661402-d94a53d6-2137-43f4-a6ec-d15e950f4dec.png)
+![image](https://user-images.githubusercontent.com/111123372/200661732-eedfd5ef-70e7-4b49-96f4-5cb28b5ccfd9.png)
+
 
